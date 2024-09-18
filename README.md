@@ -1,5 +1,6 @@
 # Landing Page PetLife
-- Este projeto foi desenvolvido na Trilha Start na Programação da [OneBitCode](https://www.onebitcode.com) com o expert [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
+- Este projeto foi desenvolvido na Trilha Start na Programação da [OneBitCode](https://www.onebitcode.com) com o expert [Isaac Pontes](https://github.com/isaacpontes)
+- Você pode dar um "fork" no [REPOSITÓRIO ORIGINAL](https://github.com/isaacpontes/petlife) para organizar suas alterações e evoluções, mantendo uma referência direta ao código-fonte original.
 - Acesse o [PROJETO FINALIZADO](https://hsoaresbianca.github.io/petlife/)
 
 ## Objetivo Geral
