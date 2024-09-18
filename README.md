@@ -1,34 +1,16 @@
-<h1 align="center"> PetLife</h1>
+# Landing Page PetLife
+- Este projeto foi desenvolvido na Trilha Start na Programação da [OneBitCode](https://www.onebitcode.com) com o expert [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
+- Acesse o [PROJETO FINALIZADO](https://hsoaresbianca.github.io/petlife/)
 
-<p align="center">
-Projeto desenvolvido na trilha Start na Programação da <a href=https://www.onebitcode.com target="_blank">OneBitCode</a>
-</p>
+## Objetivo Geral
+- Criar uma Landing Page para uma clínica veterinária fictícia (PetLife) com JavaScript, CSS e HTML.
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-<p align="center">
-  <img alt="Projeto PetLife" src="./img/preview.jpg" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+## Tecnologias Utilizadas
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
-
-Criação de uma Landing Page para uma clínica veterinária (fictícia).
-
-
-## 🔖 Layout
-
+## Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ObmGmIUdpg2L4HbgggwcIy/Funil-OBC-Start-2.0?type=design&mode=design&t=9gZQpEcAYYL3yRZh-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 <br>
